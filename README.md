@@ -1,0 +1,1 @@
+This project implements a sentiment analysis model on the IMDB movie review dataset using traditional machine learning techniques. The aim is to classify movie reviews as either positive or negative by processing the text and training a classifier.
